@@ -21,7 +21,7 @@
         <h2>Meus Dados</h2>
         <h3>Nome: Leandro Kepe de Souza Pinto</h3>
         <h3>RA: 1290482013026</h3>
-        <h3>Link perfil do Github: <a><a href="https://github.com/LeandroKepe16">https://github.com/LeandroKepe16</a></h3>
+        <h3>Link perfil do Github: <a><a href="https://github.com/LeandroKepe16/P1">https://https://github.com/LeandroKepe16/P1></h3>
         <table border="1">
             <tr>
                 <th>Sigla</th>
